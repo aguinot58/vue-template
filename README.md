@@ -34,5 +34,8 @@ Une example de store Pinia est intégré avec un example d'import dans le compos
 
 Le package vee-validate pour la validation de formulaire est intégré. 
 Le package axios pour requêtes HTTP est intégré.
+
+Une fois le dépôt cloné, aller dans le dossier du projet avec le terminal, 
+et faire la commande : npm i
         
     
